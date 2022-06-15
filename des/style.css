@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head{
+    background: #e9edf9;
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    padding: 20px;
+
+}
+
+
+.head-sub{
+    background: #dddfe2;
+    width: 760px;
+    height:460px;
+
+
+}
+
+.write{
+background: url(pictute/rleft.jpg) no-repeat center center;
+background-size: cover;
+color: white;
+ width: 380px;
+height:460px;
+float: left;
+text-align: center;
+
+}
+
+.login{
+    background-color: #ffffff;
+    width: 380px;
+    height:460px;
+    float: left;
+    text-align: center;
+}
+.img{
+   
+    background: url(/rleft.jpg)  center;
+background-size: cover;
+
+}
+input{
+   text-align: left;
+    margin: 5px;
+    background-color: #f7f7f7;
+    padding: 5px 10px;
+   
+}
+lebal{
+    padding: 5px;
+}
+
+button{
+
+    padding: 5px;
+    width: 50%;
+    border-radius: 20%;
+    background-color: #0a7ef5;
+    border-style: none;
+    margin: 5px;
+}
+.input{
+     
+    border-width: 2px;
+    border-color: #0a7ef5;
+    position: relative;
+    display: inline-block;
+
+   
+}
+h1{
+    color: #0a7ef5;
+}
+.p{
+    color: #0a7ef5;
+}
+.tr{
+    width: 8px;
+    background-color: #0a7ef5;
+    margin-right: 0px;
+    margin-left: 0px;
+
+
+  
+}
+input{
+    
+    border-style: none;
+    margin-left: -5px;
+    background-color: #f7f7f7;
+}
+.check{
+    margin-left: 45px;
+    font-size: 15px;
+}
+form{
+    margin-top: 50px;
+}
+
